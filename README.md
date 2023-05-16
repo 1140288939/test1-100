@@ -1,3 +1,4 @@
 ## python练习题
-   test1-100
+   test1-94
+   
 
